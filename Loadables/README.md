@@ -11,5 +11,4 @@ How to use it:
 Load test
 //It's that simple!
 //The source is automatically set to this folder, and ".hlb" (Hopscotch Loadable) is automatically added to the end of the filename.
-//(Test does not actually exist right now.)
 ```
