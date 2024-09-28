@@ -5,10 +5,19 @@
 
 ---
 
-How to use it:
+## How to get Loadables:
 
 ```hopscotch
 Load test
 //It's that simple!
 //The source is automatically set to this folder, and ".hlb" (Hopscotch Loadable) is automatically added to the end of the filename.
+```
+
+## How to use Loadables:
+
+```hopscotch
+hlb: test|hello
+//All Loadables have a file extension of .hlb,
+//And to use them, start the line of code with "hlb: "
+//followed by [The Loadable's Name]|[Data to send to the Loadable]
 ```
