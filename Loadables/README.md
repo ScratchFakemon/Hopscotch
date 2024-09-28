@@ -21,3 +21,12 @@ hlb: test|hello
 //And to use them, start the line of code with "hlb: "
 //followed by [The Loadable's Name]|[Data to send to the Loadable]
 ```
+
+## Loading and using a Loadable in One Program
+
+```hopscotch
+Load test
+//Loads the "test" Loadable
+hlb: test|hello
+//Sends the data "hello" to the Loadable "test"
+```
